@@ -4,19 +4,15 @@ I study Electronics & Communications Engineering, and I am passionate about ever
 - 📫 Reach me at: karim.mabdelaziz@outlook.com
 
 ### Connect with me: 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/karimabdelaziz0/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
-</div>
+[![linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karimabdelaziz0/)
 
 ### :hammer_and_wrench: Languages and Tools:
-![c](https://img.shields.io/badge/c-cccccc?style=for-the-badge&logo=c&logoColor=blue)
-![python](https://img.shields.io/badge/python-cccccc?style=for-the-badge&logo=python&logoColor=yellow)
-![html5](https://img.shields.io/badge/html5-cccccc?style=for-the-badge&logo=html5&logoColor=orange)
-![sass](https://img.shields.io/badge/sass-cccccc?style=for-the-badge&logo=sass&logoColor=red)
-![javascript](https://img.shields.io/badge/javascript-cccccc?style=for-the-badge&logo=javascript&logoColor=yellow)
-![arduino](https://img.shields.io/badge/arduino-cccccc?style=for-the-badge&logo=javascript&logoColor=white)  
+![c](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c)
+![python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python)
+![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript)
+![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5)
+![sass](https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass)
+![arduino](https://img.shields.io/badge/arduino-000000?style=for-the-badge&logo=arduino)  
 
 ### Organizations:
 <div id="Organizationss">
