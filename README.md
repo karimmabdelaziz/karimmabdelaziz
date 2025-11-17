@@ -1,6 +1,6 @@
 ### Hi, I'm Karim 👋
-I study Electronics & Communications Engineering, and I am passionate about everything tech!
-- 🔭 Currently getting into DevOps.
+I study Electronics & Communications Engineering.
+
 - 📫 Reach me at: karim.mabdelaziz@outlook.com
 
 ### Connect with me: 
